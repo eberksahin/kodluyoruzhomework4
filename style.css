@@ -1,0 +1,92 @@
+.image{
+    display: block;
+    margin: 0 auto;
+}
+
+.search-bar{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(241, 238, 238);
+    padding-bottom: 20px;;
+    width: 90%;
+}
+
+#search{
+    word-spacing: 1,5px;
+    font-size: 17px;
+    margin: 0;
+}
+
+#input-bar{
+    padding-left: 160px;
+    margin-bottom: 4px;
+    border-style: hidden;
+    box-shadow: 0 0 2px rgb(186, 184, 184);
+}
+
+.buttons button{
+    border-style: hidden;
+    box-shadow: 0 0 2px rgb(186, 184, 184);
+    background-color: rgb(255, 255, 255);
+    font-size: 12px;
+    border-radius: 5px;
+    padding: 2px 7px;
+}
+
+.boxes{
+    width: 90%;
+    margin: 3px auto;
+    text-align: center;
+    display: block;
+}
+
+.card{
+    float: left;
+}
+.card ul{
+    list-style: none;
+    text-align: center;
+    padding-inline-start: 0;
+}
+
+.box-1{
+    background-color: rgb(126, 229, 218);
+    width: 37%;
+    margin-right: 3px;
+}
+
+.box-2{
+    background-color: rgb(112, 204, 194);
+    width: 25%;
+    margin-right: 3px;
+    font-size: 13px;
+}
+
+.box-3{
+    background: rgb(98,179,170);
+    width: 37%;
+    font-size: 13px;
+    line-height: 5px;
+}
+.box-3 p{
+    margin: 10.5px;
+}
+.mail {
+    font-size: 12px;
+    padding: 3px 30px 3px 3px;
+    border-style: none;
+    margin-bottom: 4px;
+}
+.subscribe{
+    border-radius: 4px;
+    border-style: none;
+    margin: 0 16px 6px 0;
+    font-size: 12px;
+}
+
+#copyright{
+    display: block;
+    font-size: 13px;
+    margin-top: 80px;
+    text-align: center;
+}
